@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class main {
 	public static void main(String[] args) {
-		//double num1;
-		//double num2;
-		//double num3;
-		//double max;
+		
 		
 		Scanner sc = new Scanner(System.in);
 		
